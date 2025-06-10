@@ -35,9 +35,9 @@ This project is designed as a learning exercise focusing on:
 
 /System
 ├─ /Application
-│ └─ Program.java # Entry-point with main loop
+  │ └─ Program.java # Entry-point with main loop
 └─ /Entities
-└─ Product.java # Data class with business logic
+  └─ Product.java # Data class with business logic
 
 
 ---
